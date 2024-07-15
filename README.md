@@ -1,5 +1,7 @@
 # PWA Text Editor
 
+Visit the text editor [here](https://texteditorpwa-kdcc.onrender.com)
+
 ## Description
 
 This project is a Progressive Web Application (PWA) text editor that runs in the browser. The app is designed as a single-page application (SPA) that meets the criteria of a PWA, providing a seamless user experience both online and offline. The text editor leverages IndexedDB for data persistence, ensuring that users' content is saved and retrievable even without an internet connection. The application can also be installed on the user's device, offering native app-like functionality.
